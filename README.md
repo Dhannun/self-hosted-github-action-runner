@@ -200,5 +200,5 @@ Self-Hosted Runner:
 ------------------------------------------------------------
 
 Maintained by: Yunus Muhammad Abudukhan <br>
-Prepared: With ❤️ by [Dhannun](https://github.com/Dhannun)  
 Purpose: Reliable CI/CD for staging environment  
+Prepared: With ❤️ by [Dhannun](https://github.com/Dhannun)  
